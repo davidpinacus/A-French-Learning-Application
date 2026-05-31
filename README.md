@@ -1,22 +1,22 @@
-# 🇫🇷 Flash Card App (Python - Tkinter + Pandas)
+#  Flash Card App (Python - Tkinter + Pandas)
 
 An interactive flashcard application to learn French vocabulary using Python Tkinter.
 Flip cards, track learned words, and improve your language skills efficiently.
 
 ---
 
-## 🎯 Features
+##  Features
 
-* 📖 Random French word generation
-* 🔄 Auto flip to English after 3 seconds
-* ✅ Mark words as learned
-* ❌ Track unknown words
-* 💾 Save progress using JSON files
-* 🖥️ Clean card-style UI
+*  Random French word generation
+*  Auto flip to English after 3 seconds
+*  Mark words as learned
+*  Track unknown words
+*  Save progress using JSON files
+*  Clean card-style UI
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```id="l2x8qa"
 .
@@ -42,7 +42,7 @@ Flip cards, track learned words, and improve your language skills efficiently.
 
 ---
 
-## 🎮 How It Works
+##  How It Works
 
 * A French word appears on the card
 * After 3 seconds → flips to English
